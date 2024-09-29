@@ -1,0 +1,14 @@
+# Ignore ipynb checkpoints
+.ipynb_checkpoints/
+
+# Ignore virtual environment folders
+bin/
+etc/
+include/
+lib/
+share/
+pyvenv.cfg
+# Ignore all CSV files
+*.csv
+# Ignore .DS_Store files
+.DS_Store
