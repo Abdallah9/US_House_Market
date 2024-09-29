@@ -12,3 +12,6 @@ pyvenv.cfg
 *.csv
 # Ignore .DS_Store files
 .DS_Store
+
+lib/python3.11/site-packages/numpy/.dylibs/libscipy_openblas64_.dylib
+lib/python3.11/site-packages/scipy/.dylibs/libscipy_openblas.dylib
