@@ -1,4 +1,4 @@
-Assignment 1: Linear Regression Analysis on USA Housing Dataset
+# Assignment 1: Linear Regression Analysis on USA Housing Dataset
 
 DSCI 6601: Practical Machine Learning
 
